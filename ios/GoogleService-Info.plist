@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>923575288839-egfbtdkvmbellk4muq5e3d4tltaavr4q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.923575288839-egfbtdkvmbellk4muq5e3d4tltaavr4q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCr3MYkymcLcnjc3KF45681juKOxApf_0I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>923575288839</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sealjobs.recruiter</string>
+	<key>PROJECT_ID</key>
+	<string>seal-1195</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seal-1195.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:923575288839:ios:f70db4e8fc30f911</string>
+	<key>DATABASE_URL</key>
+	<string>https://seal-1195.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,1 @@
+export const PHOTO_REQUEST = 'PHOTO_REQUEST'

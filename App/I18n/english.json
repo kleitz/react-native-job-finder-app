@@ -1,0 +1,441 @@
+{
+  "noInternetConnection": "You have no internet connection",
+  "chatUnavailable": "Chat is unavailable right now!",
+  "logoutNoInternet": "You have no internet connection. Please try again later...",
+  "appUpdating": "Installing update...",
+  "footerTabs": {
+    "vacancies": "Vacancies",
+    "chat": "Chat",
+    "help": "Support",
+    "profile": "Profile"
+  },
+  "carousel": {
+    "slide1Title": "Post vacancies",
+    "slide1Description": "Easy, fast and mobile.",
+    "slide2Title": "Screen candidates",
+    "slide2Description": "Decide at a glance.",
+    "slide3Title": "Manage applicants",
+    "slide3Description": "Your personel at your fingertips.",
+    "slide4Title": "Chat",
+    "slide4Description": "Be in direct contact with applicants."
+  },
+  "auth": {
+    "registerTab": "Register",
+    "loginTab": "Log in",
+    "signUp": "Sign up",
+    "login": "Log in",
+    "logout": "Logout",
+    "emailPlaceholder": "Email address",
+    "passwordPlaceholder": "Password",
+    "passwordHint": "At least {{requiredLength}} characters",
+    "confirmPasswordPlaceholder": "Confirm password",
+    "forgotPassword": "Forgot password?",
+    "companyPlaceholder": "Company name",
+    "termsText": "By signing up you accept the ",
+    "terms": "terms & conditions",
+    "privacyPolicy": "privacy policy",
+    "errors": {
+      "email": "Email is already taken.",
+      "emailNotValid": "The email address is not valid.",
+      "companyRequired": "Company name is required.",
+      "emailRequired": "Email address is required.",
+      "login": "Invalid email or password.",
+      "passwordTooShort": "Password too short. At least 8 characters needed.",
+      "passwordsDontMatch": "The passwords do not match.",
+      "noPasswordError": "Please insert a password.",
+      "passwordRequired": "The password is required.",
+      "nameAlreadyTaken": "The name is already taken."
+    }
+  },
+  "profile": {
+    "aboutMeTabLabel": "About",
+    "accountTabLabel": "Account",
+    "companyInformation": "Company Information",
+    "accountInformation": "Account Information",
+    "payrollInformation": "Payroll Information",
+    "placeholders": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "name": "Name",
+      "email": "Email",
+      "position": "Position",
+      "mobileNr": "Mobile nr.",
+      "businessType": "Type of business",
+      "mobile": "Mobile",
+      "companyName": "Company name",
+      "companyDescription": "Company description",
+      "companyAddress": "Company address",
+      "companyWebsite": "Company website",
+      "companyTelephone": "Company telephone",
+      "companyStreet": "Company street",
+      "companyStreetNumber": "Company street number",
+      "companyCity": "Company city",
+      "companyZip": "Company zip"
+    },
+    "noDescription": "No description yet",
+    "noAddress": "No address yet",
+    "noWebsite": "N/A",
+    "alerts": {
+      "invalidPhone": "Please insert a valid phone number."
+    }
+  },
+  "tutorial": {
+    "firstCardTitle": "Swipe Jobs",
+    "firstCardDescription": "Swipe right for the jobs you'd like to apply for!",
+    "secondCardTitle": "Get Matched",
+    "secondCardDescription": "Wait for a company to accept you or accept an invite.",
+    "thirdCardTitle": "Chat",
+    "thirdCardDescription": "Make it personal and chit chat with your future employer.",
+    "fourthCardTitle": "Accept proposal",
+    "fourthCardDescription": "Accept the proposal the company will send you to make it official."
+  },
+  "buttons": {
+    "readMore": "Read more",
+    "checkProfile": "Check profile",
+    "completeProfile": "Complete profile",
+    "viewProposal": "View proposal",
+    "continue": "Continue",
+    "add": "Add",
+    "next": "Next",
+    "save": "Save",
+    "back": "Back",
+    "cancel": "Cancel",
+    "getStarted": "Get started",
+    "done": "Done",
+    "searchJobs": "Search jobs",
+    "sendMessage": "Send a message",
+    "skip": "Skip",
+    "invite": "Invite",
+    "deny": "Deny",
+    "accept": "Accept",
+    "finish": "Finish",
+    "uploadPicture": "Upload profile picture",
+    "uploadCompanyLogo": "Upload company logo",
+    "findJobs": "Find Jobs",
+    "takeTutorial": "Take the tutorial"
+  },
+  "photos": {
+    "companyLogo": "Company logo",
+    "companyBanner": "Company banner",
+    "vacancyPhoto": "Vacancy photo",
+    "takePhotoIOS": "Take Photo",
+    "selectIOS": "Choose from Library...",
+    "takePhotoAndroid": "Select from camera",
+    "selectAndroid": "Select from library"
+  },
+  "title": {
+    "info": "Info",
+    "editName": "Edit Name",
+    "editEmail": "Edit Email",
+    "editPosition": "Edit Position",
+    "editMobile": "Edit Mobile",
+    "editCompanyInfo": "Company Info"
+  },
+  "info": {
+    "logoTitle": "Logo",
+    "companyInfo": "Company Info",
+    "contactTel": "Contact telephone",
+    "companyWeb": "Company website (optional)",
+    "companyAddress": "Company address (optional)"
+  },
+  "errors": {
+    "invalidEmail": "Make sure you provide a valid email address!"
+  },
+  "createVacancy": {
+    "title": "Create vacancy",
+    "editVacancy": "Edit vacancy",
+    "reuseVacancy": "Re-use vacancy",
+    "jobTitle": "Job title",
+    "jobTitleInfo": "Give your vacancy a name",
+    "jobCategoriesTitle": "Job category",
+    "jobCategoriesInfo": "In what job category is your job located",
+    "personalityTraitsTitle": "Personality traits",
+    "personalityTraitsInfo": "Choose 1 - 3 personality traits",
+    "wageTitle": "Wage",
+    "wageInfo": "Gross hourly wage",
+    "general": "General info",
+    "generalInfo": "Tell us a bit more about the job",
+    "description": "Description",
+    "descriptionInfo": "Sell your vacancy",
+    "photo": "Vacancy photo",
+    "photoInfo": "Upload a photo which represents the work environment",
+    "schedule": "Schedule",
+    "scheduleInfo": "When and how long do you need this temp worker",
+    "jobLocation": "Job location",
+    "jobLocationInfo": "The address where the job will be located",
+    "otherCapacities": "Other capacities",
+    "otherCapacitiesInfo": "Car & licence, language & skills",
+    "publish": "PUBLISH",
+    "weekdays": {
+      "monday": "monday",
+      "tuesday": "tuesady",
+      "wednesday": "wednesday",
+      "thursday": "thursday",
+      "friday": "friday",
+      "saturday": "saturday",
+      "sunday": "sunday"
+    },
+    "jobTitleScreen": {
+      "title": "Jobtitle",
+      "hint1": "Give your vacancy a name",
+      "hint2": "Try to make this title simple but self-explanatory.",
+      "inputPlaceholder": "Jobtitle"
+    },
+    "jobCategoryScreen": {
+      "title": "Job category",
+      "hint": "In what job category is your job located?"
+    },
+    "personalityTraitsScreen": {
+      "title": "Personality traits",
+      "hint": "Choose 1 - 3 personality traits"
+    },
+    "descriptionScreen": {
+      "title": "Description",
+      "textRequirement": "(min 50 characters)",
+      "shortDescription": "Short description",
+      "longDescription": "Long description",
+      "writeLongDescription": "Write a long description",
+      "hint": "What are your expectations? What are the conditions? What’s in it for them? Convince them with your writing skills.",
+      "placeholder": "Write a description"
+    },
+    "wageScreen": {
+      "title": "Wage",
+      "hint": "Fil in the gross hourly wage.",
+      "hint2": "This is just an indication for the candidates.",
+      "optional": "Optional",
+      "wage": "Wage"
+    },
+    "generalInfoScreen": {
+      "optional": "Optional",
+      "title": "General info",
+      "jobTitle": "Job title",
+      "jobInfo": "Try to make this title simple but self-explanatory.",
+      "term": "Job term",
+      "termInfo": "What kind of temp-worker do you need?",
+      "sector": "Sector",
+      "sectorInfo": "In which sector is this job located?",
+      "wage": "Wage",
+      "wageInfo": "Fill in the gross hourly wage. This can be changed when sending the proposal. This is just an indication for the candidates."
+    },
+    "shortDescription": {
+      "textRequirement": "(100-240 characters)",
+      "title": "Short Description",
+      "placeholder": "Be creative in your job tweet",
+      "hint": "Make sure your vacancy stands out to the rest of the vacancies. This description is show on the vacancy cards."
+    },
+    "vacancyPhoto": {
+      "title": "Vacancy photo",
+      "firstParagraph": "A picture is worth a thousand words!",
+      "secondParagraph": "Choose a photo which represents to work environment. This can be a photo of the company facade, working place or company banner.",
+      "uploadPhoto": "Upload photo",
+      "generateStock": "Generate stock photo"
+    },
+    "vacancySchedule": {
+      "from": "From",
+      "to": "To",
+      "title": "Schedule",
+      "type": "Type",
+      "typeDescription": "Choose a schedule type",
+      "oneDay": "One day",
+      "oneDayDescription": "Choose this schedule if the assignment is only one single day.",
+      "oneDayExplanation": "Explanation about the one day schedule",
+      "multipleDays": "Multiple days",
+      "multipleDaysDescription": "Choose this schedule if the assignment is for several days.",
+      "multipleDaysExplanation": "Explanation about the multiple days schedule",
+      "fixedPeriod": "Period",
+      "fixedPeriodDescription": "Choose this schedule if the assignment is for the same days for some period.",
+      "fixedPeriodExplanation": "Explanation about the period schedule",
+      "indefiniteDuration": "Indefinite period",
+      "indefiniteDurationDescription": "Choose this schedule if the assignment is for the same days for an indefinite period.",
+      "indefiniteDurationExplanation": "Explanation about the indefinite period  schedule",
+      "pickDate": "Pick a date",
+      "startHour": "Start hour",
+      "endHour": "End hour",
+      "pause": "Pause",
+      "addDay": "+ Add day",
+      "daysInWeek": "What days in the week?"
+    },
+    "otherCapacitiesScreen": {
+      "title": "Other capacities",
+      "hint1": "Does the temp worker need a license or car?",
+      "hint2": "What languages should the temp worker need to speak?",
+      "license": "License",
+      "car": "Car",
+      "dutch": "Dutch",
+      "english": "English",
+      "french": "French",
+      "german": "German",
+      "skillTags": "Skilltags",
+      "personalityTraits": "Personality traits"
+    },
+    "skilltags": {
+      "title": "Skilltags",
+      "hint": "Choose 1 - 3 main skilltags that fit best to your vacancy"
+    },
+    "personalityTraits": {
+      "title": "Personality Traits",
+      "hint": "Choose 1 - 3 personality traits"
+    },
+    "longDescription": {
+      "textRequirement": "(min 50 characters)",
+      "title": "Long Description",
+      "placeholder": "Write a long description",
+      "hint": "What are your expectations? What are the conditions? What’s in it for them? Convince them with your writing skills."
+    },
+    "location": {
+      "title": "Job Location",
+      "address": "Job Address",
+      "hint": "Fill in the address where the job will be located."
+    }
+  },
+  "vacancy": {
+    "title": "My Vacancies",
+    "screenCandidates": "Screen candidates",
+    "noCandidates": "No candidates yet",
+    "activeStatus": "Live",
+    "pausedStatus": "Paused",
+    "closedStatus": "Expired",
+    "manageApplicants": "Manage applicants",
+    "editVacancy": "Edit vacancy",
+    "pauseVacancy": "Pause vacancy",
+    "resumeVacancy": "Resume vacancy",
+    "reuseVacancy": "Reuse vacancy",
+    "noVacancyInfo": "Start by creating a new vacancy",
+  },
+  "screenCandidates": {
+    "noExperience": "No experience",
+    "noEducation": "No education",
+    "noLanguages": "No languages",
+    "noLocation": "No location",
+    "noCandidates": "No more candidates",
+    "noCarAndLicence": "No car & licence",
+    "carAndLicence": "Car & Licence",
+    "onlyCar": "Only car",
+    "onlyLicence": "Only licence",
+    "candidatesDescription": "Come back later for more candidates to screen.",
+    "fetchingHint": "Fetching the best candidates... "
+  },
+  "manageApplicants": {
+    "expiresInMsg": "Match expires in",
+    "expiredMsg": "Match expired",
+    "noPhoneNumber": "The candidate doesn't have a phone number",
+    "noCall": "Can't call the candidate",
+    "noMatches": "No matches yet",
+    "noSeals": "No seals yet",
+    "matchDescription": "Start inviting candidates to get matched. You can chat with matched candidates.",
+    "matchButtonText": "Find candidates",
+    "sealDescription": "Send a proposal to a candidate to Seal The Deal. By sending a proposal you confirm the candidate can come and work for you."
+  },
+  "confirmationModals": {
+    "publishedTitle": "Your vacancy is published!",
+    "publishedDescription": "Start by inviting candidates. Accepted invitations will trigger a match where you’ll be able to start chatting with each other!",
+    "publishConfirm": "Start",
+    "editedTitle": "Your vacancy is edited!",
+    "editedConfirm": "Continue",
+    "sealAssistantTitle": "You're about to seal",
+    "sealAssistantDescription": "Information about sealing a candidate",
+    "sealAssistantConfirm": "Seal",
+    "removeApplicantTitle": "Are you sure you want to erase your match with",
+    "removeAssistantConfirm": "Remove",
+    "publishedVacancyTitle": "Your vacancy is published!",
+    "publishedVacancyDescription": "Start by inviting candidates. Accepted invitations will trigger a match where you’ll be able to start chatting with each other!",
+    "publishedVacancyConfirm": "Start",
+    "editedVacancyTitle": "Your vacancy is edited!",
+    "editedVacancyConfirm": "Continue",
+    "pauseVacancyTitle": "You’re about to pause your vacancy",
+    "pauseVacancyDescription": "Pausing your vacancy means it won’t be visible for candidates to apply. Your matched & sealed candidates however will still be connected!",
+    "pauseVacancyConfirm": "Pause",
+    "resumeVacancyTitle": "You’re about to resume your vacancy",
+    "resumeVacancyDescription": "Your vacancy will be publicly visible again so candidates are able to apply to it.",
+    "resumeVacancyConfirm": "Resume",
+    "reuseVacancyTitle": "You’re about to reuse your vacancy",
+    "reuseVacancyDescription": "All the data will be reused, except for the schedule. You’ll need to refill the schedule.",
+    "reuseVacancyConfirm": "Reuse"
+  },
+  "matchModal": {
+    "title": "It’s a match!",
+    "description": "You and {{candidate}} approved each other.",
+    "sendMessage": "Send a message",
+    "continueSwiping": "Continue swiping"
+  },
+  "candidateProfile": {
+    "languageKnowledge": "Language knowledge",
+    "transportation": "Transportation",
+    "education": "Education",
+    "experience": "Experience",
+    "car": "Car",
+    "license": "License",
+    "graduatedIn": "Graduated in {{graduationYear}}",
+    "yes": "Yes",
+    "no": "No",
+    "experienceLevels": {
+      "0": "0 - 1 Month",
+      "1": "1 - 3 Months",
+      "2": "3 - 6 Months",
+      "3": "6 - 12 Months",
+      "4": "1 - 3 Years",
+      "5": "3+ Years"
+    }
+  },
+  "chat": {
+    "title": "Chat",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "sendMessage": "Send",
+    "typeAMessage": "Type a message...",
+    "noMessages": "No messages! Start talking to get to know each other...",
+    "lookForJobsButton": "Look for employees",
+    "noConnectionsTitle": "No connections yet!",
+    "noJobConnections": "When you’ve matched with an employee the connection will appear here!"
+  },
+  "support": {
+    "title": "Support",
+    "howItWorks": "How it works",
+    "pricing": "Pricing",
+    "termsConditions": "Terms & conditions, privacy ..."
+  },
+  "onboarding": {
+    "logoHint": "We recommend you upload your company logo. A visually attractive profile encourages employees to apply for your vacancies."
+  },
+  "reviews": {
+    "sectionTitle": "Reviews",
+    "giveReview": "Give review",
+    "seeReviews": "See reviews",
+    "rating": "rating",
+    "review": "review",
+    "reviews": "reviews",
+    "noReviews": "No reviews",
+    "aboutMe": {
+      "title": "Reviews about me",
+      "punctuality": "Punctuality",
+      "vacancyDescription": "Vacancy description",
+      "workplace": "Workplace",
+      "performance": "Performance",
+      "noReviews": "No reviews",
+      "noReviewsHint": "When you’ve sealed and done jobs, your reviews about them will appear here."
+    },
+    "toGive": {
+      "title": "Reviews to give",
+      "noReviewsText": "No reviews to give"
+    },
+    "giveReviewScreen": {
+      "title": "Give review",
+      "ratingReason1": "He/She showed up on time",
+      "ratingReason2": "His/her performance was good",
+      "inputTextHint": "Tell us a bit more about your experience with him/her",
+      "inputTextPlaceholder": "Write a review...",
+      "submitBtnLabel": "Submit review",
+      "cancelBtnLabel": "He/she didn't do this job",
+      "confirmSubmitTitle": "Submit review",
+      "confirmSubmitMessage": "Are you sure you want to submit this review?",
+      "confirmCancelTitle": "Cancel review",
+      "confirmCancelMessage": "Are you sure you want to cancel this review?",
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "rating": {
+    "hint1": "Not at all",
+    "hint2": "Totally"
+  }
+}

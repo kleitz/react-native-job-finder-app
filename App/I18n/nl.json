@@ -1,0 +1,440 @@
+{
+  "noInternetConnection": "Je hebt momenteel geen internetverbinding",
+  "chatUnavailable": "Chat is nu niet beschikbaar!",
+  "logoutNoInternet": "Je hebt momenteel geen internetverbinding. Probeer het later nogmaals...",
+  "appUpdating": "Update aan het installeren...",
+  "footerTabs": {
+    "vacancies": "Vacatures",
+    "chat": "Chat",
+    "help": "Help",
+    "profile": "Profiel"
+  },
+  "carousel": {
+    "slide1Title": "Plaats vacatures",
+    "slide1Description": "Makkelijk, snel en mobiel.",
+    "slide2Title": "Screen kandidaten",
+    "slide2Description": "Beslis in één oogopslag.",
+    "slide3Title": "Beheer sollicitanten",
+    "slide3Description": "Jouw personeel binnen handbereik.",
+    "slide4Title": "Chat",
+    "slide4Description": "Sta in direct contact met sollicitanten."
+  },
+  "auth": {
+    "registerTab": "Registreer",
+    "loginTab": "Log in",
+    "signUp": "Registreer",
+    "login": "Log in",
+    "logout": "Log uit",
+    "emailPlaceholder": "E-mailadres",
+    "passwordPlaceholder": "Wachtwoord",
+    "passwordHint": "Tenminste {{requiredLength}} tekens",
+    "confirmPasswordPlaceholder": "Bevestig wachtwoord",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "companyPlaceholder": "Bedrijf",
+    "termsText": "Door registratie ga je akkoord met de",
+    "terms": "Gebruiksvoorwaarden",
+    "privacyPolicy": "Privacybeleid",
+    "errors": {
+      "email": "E-mailadres is al in gebruik.",
+      "emailNotValid": "Ongeldig e-mailadres.",
+      "emailRequired": "E-mailadres is vereist.",
+      "companyRequired": "Bedrijfsnaam is vereist.",
+      "login": "Onjuist e-mailadres of wachtwoord.",
+      "passwordTooShort": "Wachtwoord te kort. Gebruik minstens 8 tekens.",
+      "passwordsDontMatch": "De wachtwoorden komen niet overeen",
+      "noPasswordError": "Gelieve een wachtwoord in te geven.",
+      "passwordRequired": "Wachtwoord is vereist.",
+      "nameAlreadyTaken": "Deze bedrijfsnaam is al in gebruik."
+    }
+  },
+  "profile": {
+    "aboutMeTabLabel": "Over",
+    "accountTabLabel": "Account",
+    "companyInformation": "Bedrijfsinformatie",
+    "accountInformation": "Accountinformatie",
+    "payrollInformation": "Payroll informatie",
+    "placeholders": {
+      "firstName": "Voornaam",
+      "lastName": "Achternaam",
+      "name": "Naam",
+      "email": "E-mailadres",
+      "position": "Jouw functie",
+      "mobileNr": "Telefoonnummer",
+      "businessType": "Bedrijfstype",
+      "mobile": "Telefoonnummer",
+      "companyName": "Bedrijfsnaam",
+      "companyDescription": "Bedrijfsomschrijving",
+      "companyAddress": "Bedrijfsadres",
+      "companyWebsite": "Bedrijfswebsite",
+      "companyTelephone": "Bedrijfstelefoon",
+      "companyStreet": "Straat",
+      "companyStreetNumber": "Straatnummer",
+      "companyCity": "Stad",
+      "companyZip": "Postcode"
+    },
+    "noDescription": "Nog geen beschrijving",
+    "noAddress": "Nog geen adres",
+    "noWebsite": "Nog geen website",
+    "alerts": {
+      "invalidPhone": "Gelieve een correct telefoonnummer in te geven."
+    }
+  },
+  "tutorial": {
+    "firstCardTitle": "Screen kandidaten",
+    "firstCardDescription": "Inviteer of accepteer kandidaten.",
+    "secondCardTitle": "Beheer sollicitanten",
+    "secondCardDescription": "Gematchte kandidaten beheren en managen.",
+    "thirdCardTitle": "Seal The Deal",
+    "thirdCardDescription": "Shortlist kandidaten die je wil aannemen.",
+    "fourthCardTitle": "Chat",
+    "fourthCardDescription": "Sta in rechtstreeks contact met jouw personeel."
+  },
+  "buttons": {
+    "readMore": "Lees meer",
+    "checkProfile": "Kijk profiel na",
+    "completeProfile": "Vervolledig profiel",
+    "viewProposal": "Bekijk contractvoorstel",
+    "continue": "Ga verder",
+    "add": "Voeg toe",
+    "next": "Volgende",
+    "save": "Bewaar",
+    "back": "Vorige",
+    "cancel": "Annuleer",
+    "getStarted": "Begin",
+    "done": "Klaar",
+    "searchJobs": "Zoek jobs",
+    "sendMessage": "Verstuur bericht",
+    "skip": "Sla over",
+    "invite": "Nodig uit",
+    "deny": "Afwijzen",
+    "accept": "Aanvaard",
+    "finish": "Einde",
+    "uploadPicture": "Upload profielfoto",
+    "uploadCompanyLogo": "Upload bedrijfslogo",
+    "findJobs": "Vind jobs",
+    "takeTutorial": "Volg de rondleiding"
+  },
+  "photos": {
+    "companyLogo": "Bedrijfslogo",
+    "companyBanner": "Omslagfoto",
+    "vacancyPhoto": "Vacature foto",
+    "takePhotoIOS": "Neem een foto",
+    "selectIOS": "Kies uit filmrol",
+    "takePhotoAndroid": "Neem een foto",
+    "selectAndroid": "Kies uit bibliotheek"
+  },
+  "title": {
+    "info": "Info",
+    "editName": "Wijzig naam",
+    "editEmail": "Wijzig e-mailadres",
+    "editPosition": "Wijzig jouw functie",
+    "editMobile": "Wijzig telefoonnummer",
+    "editCompanyInfo": "Bedrijfsinformatie"
+  },
+  "info": {
+    "logoTitle": "Logo",
+    "companyInfo": "Bedrijfsinformatie",
+    "contactTel": "Contact telefoonnummer",
+    "companyWeb": "Bedrijfswebsite (optioneel)",
+    "companyAddress": "Bedrijfsadres (optioneel)"
+  },
+  "errors": {
+    "invalidEmail": "Gelieve een correct e-mailadres in te geven!"
+  },
+  "createVacancy": {
+    "title": "Vacature aanmaken",
+    "editVacancy": "Vacature wijzigen",
+    "reuseVacancy": "Hergebruik vacature",
+    "jobTitle": "Jobtitel",
+    "jobTitleInfo": "Geef jouw vacature een titel",
+    "jobCategoriesTitle": "Jobcategorie",
+    "jobCategoriesInfo": "Tot welke categorie behoort deze job?",
+    "personalityTraitsTitle": "Karaktereigenschappen",
+    "personalityTraitsInfo": "Kies 1 - 3 karaktereigenschappen",
+    "wageTitle": "Loon",
+    "wageInfo": "Uurloon",
+    "general": "Algemene info",
+    "generalInfo": "Vertel ons iets meer over de job",
+    "description": "Beschrijving",
+    "descriptionInfo": "Verkoop jouw vacature",
+    "photo": "Vacature foto",
+    "photoInfo": "Upload een foto die de werkomgeving weergeeft",
+    "schedule": "Werkschema",
+    "scheduleInfo": "Vertel ons wanneer en voor hoe lang je een werknemer nodig hebt (Deze data zijn niet bindend)",
+    "jobLocation": "Job locatie",
+    "jobLocationInfo": "Geef ons het exacte adres waar de job zal plaatsvinden",
+    "otherCapacities": "Andere capaciteiten",
+    "otherCapacitiesInfo": "Auto & rijbewijs, talen, skills",
+    "publish": "PUBLICEER",
+    "weekdays": {
+      "monday": "maandag",
+      "tuesday": "dinsdag",
+      "wednesday": "woensdag",
+      "thursday": "donderdag",
+      "friday": "vrijdag",
+      "saturday": "zaterdag",
+      "sunday": "zondag"
+    },
+    "jobTitleScreen": {
+      "title": "Vacaturetitel",
+      "hint1": "Geef je vacature een titel.",
+      "hint2": "Probeer deze zo beperkt en duidelijk mogelijk te maken",
+      "inputPlaceholder": "Barman"
+    },
+    "jobCategoryScreen": {
+      "title": "Jobcategorie",
+      "hint": "Tot welke categorie behoort deze vacature?"
+    },
+    "personalityTraitsScreen": {
+      "title": "Karaktereigenschappen",
+      "hint": "Kies 1 - 3 karaktereigenschappen"
+    },
+    "descriptionScreen": {
+      "title": "Beschrijving",
+      "shortDescription": "Korte beschrijving",
+      "longDescription": "Volledige beschrijving",
+      "writeLongDescription": "Geef meer uitleg bij jouw vacature",
+      "textRequirement": "(min 50 tekens)",
+      "hint": "Hier kan je een uitgebreide beschrijving geven. Wat verwacht je van de kandidaten? Wat zijn de voorwaarden? Wat zit er in voor de kandidaten? Overtuig ze met jouw schrijfkunsten!",
+      "placeholder": "Maak een beschrijving"
+    },
+    "wageScreen": {
+      "title": "Loon",
+      "hint": "Vul het uurloon in",
+      "hint2": "Het uurloon is niet bindend en puur indicatief",
+      "inputPlaceholder": "Optioneel",
+      "wage": "Loon"
+    },
+    "generalInfoScreen": {
+      "optional": "Optioneel",
+      "title": "Algemene info",
+      "jobTitle": "Vacaturetitel",
+      "jobInfo": "Hou de vacaturetitel zo beperkt en duidelijk mogelijk.",
+      "term": "Statuut",
+      "termInfo": "Voorkeur statuur werknemer?",
+      "sector": "Sector",
+      "sectorInfo": "Onder welke sector valt de job?",
+      "wage": "Uurloon",
+      "wageInfo": "Het is voor de kandidaten een leuke indicatie om te weten hoeveel ze zullen verdienen. Dit is enkel een indicatie en in geen geval bindend."
+    },
+    "shortDescription": {
+      "textRequirement": "(100-240 tekens)",
+      "title": "Korte beschrijving",
+      "placeholder": "Schrijf een leuke en creatieve job tweet!",
+      "hint": "Deze beschrijving zal meteen in het oog springen. Maak jouw jobtweet uitnodigend en creatief. "
+    },
+    "vacancyPhoto": {
+      "title": "Vacature foto",
+      "firstParagraph": "Zeg het met een foto! ",
+      "secondParagraph": "Plaats een foto die de werkomgeving of jouw bedrijf weergeeft.",
+      "uploadPhoto": "Upload foto",
+      "generateStock": "Genereer stockfoto"
+    },
+    "vacancySchedule": {
+      "from": "Van",
+      "to": "Tot",
+      "title": "Werkschema",
+      "type": "Type",
+      "typeDescription": "Kies een werkschema",
+      "oneDay": "Eén dag",
+      "oneDayDescription": "Kies dit schema als de job maar één dag omvat",
+      "oneDayExplanation": "Probeer zo accuraat mogelijk te zijn. (Deze data zijn niet bindend)",
+      "multipleDays": "Meerdere dagen",
+      "multipleDaysDescription": "Kies dit schema als de job meerdere (willekeurige) dagen omvat",
+      "multipleDaysExplanation": "Probeer zo accuraat mogelijk te zijn. (Deze data zijn niet bindend)",
+      "fixedPeriod": "Periode",
+      "fixedPeriodDescription": "Kies dit schema als de job steeds op dezelfde dagen voor een bepaalde periode plaats vindt",
+      "fixedPeriodExplanation": "bv. Elke zaterdag voor 3 maanden. Probeer zo accuraat mogelijk te zijn. (Deze data zijn niet bindend)",
+      "indefiniteDuration": "Onbepaalde periode",
+      "indefiniteDurationDescription": "Kies dit schema als de job steeds op dezelfde dagen voor een onbepaalde periode plaats vindt",
+      "indefiniteDurationExplanation": "bv. Elke zaterdag startend vanaf volgende week. Probeer zo accuraat mogelijk te zijn. (Deze data zijn niet bindend)",
+      "pickDate": "Kies een datum",
+      "startHour": "Startuur",
+      "endHour": "Einduur",
+      "pause": "Pauze",
+      "addDay": "+ Voeg een dag toe",
+      "daysInWeek": "Welke dagen in de week?"
+    },
+    "otherCapacitiesScreen": {
+      "title": "Andere vaardigheden",
+      "hint1": "Heeft de kandidaat een rijbewijs of auto nodig?",
+      "hint2": "Welke talen moet de kandidaat goed kunnen spreken?",
+      "license": "Rijbewijs",
+      "car": "Auto",
+      "dutch": "Nederlands",
+      "english": "Engels",
+      "french": "Frans",
+      "german": "Duits",
+      "skillTags": "Vaardigheden",
+      "personalityTraits": "Karaktereigenschappen"
+    },
+    "skilltags": {
+      "title": "Vaardigheden",
+      "hint": "Kies 1 tot 3 vaardigheden die passen bij jouw vacature"
+    },
+    "personalityTraits": {
+      "title": "Karaktereigenschappen",
+      "hint": "Kies 1 tot 3 karaktereigenschappen die passen bij jouw vacature"
+    },
+    "longDescription": {
+      "textRequirement": "(min 50 tekens)",
+      "title": "Volledige beschrijving",
+      "placeholder": "Geef meer uitleg bij jouw vacature",
+      "hint": "Hier kan je een uitgebreide beschrijving geven. Wat verwacht je van de kandidaten? Wat zijn de voorwaarden? Wat zit er in voor de kandidaten? Overtuig ze met jouw schrijfkunsten! "
+    },
+    "location": {
+      "title": "Job locatie",
+      "address": "Job adres",
+      "hint": "Vul het exacte adres in. Het algortime gebruikt deze locatie om kandidaten te rangschikken volgens hun woonplaats."
+    }
+  },
+  "vacancy": {
+    "title": "Mijn vacatures",
+    "screenCandidates": "Screen kandidaten",
+    "noCandidates": "Nog geen kandidaten",
+    "activeStatus": "Live",
+    "pausedStatus": "Gepauzeerd",
+    "closedStatus": "Verlopen",
+    "manageApplicants": "Beheer kandidaten",
+    "editVacancy": "Vacature aanpassen",
+    "pauseVacancy": "Vacature pauzeren",
+    "resumeVacancy": "Vacature hervatten",
+    "reuseVacancy": "Vacature hergebruiken",
+    "noVacancyInfo": "Start door een vacature aan te maken"
+  },
+  "screenCandidates": {
+    "noExperience": "Geen ervaring",
+    "noLanguages": "Geen talen",
+    "noLocation": "Geen locatie",
+    "noCandidates": "Geen kandidaten meer",
+    "noCarAndLicence": "Geen auto of rijbewijs",
+    "carAndLicence": "Auto & rijbewijs",
+    "onlyCar": "Enkel auto",
+    "onlyLicence": "Enkel rijbewijs",
+    "candidatesDescription": "Kom later terug om meer kandidaten te screenen.",
+    "fetchingHint": "Op zoek naar de beste kandidaten..."
+  },
+  "manageApplicants": {
+    "expiresInMsg": "Match verloopt in",
+    "expiredMsg": "Match verlopen",
+    "noPhoneNumber": "De kandidaat heeft geen telefoonnummer",
+    "noCall": "Kan de kandidaat niet bellen",
+    "noMatches": "Nog geen matches",
+    "noSeals": "Nog geen seals",
+    "matchDescription": "Start met het screenen van kandidaten om te matchen. Je kan chatten met gematchte kandidaten.",
+    "matchButtonText": "Screen kandidaten",
+    "sealDescription": "Seal een kandidaat als je dit contact wilt behouden. Je ontvangt dan ook zijn/haar contactgegevens. OPGELET: Je hebt maar 1 Seal plaats per vacature, gebruik hem wijselijk!"
+  },
+  "confirmationModals": {
+    "publishedTitle": "Jouw vacature is gepubliceerd!",
+    "publishedDescription": "Start met het screenen van kandidaten om te matchen. Je kan chatten met gematchte kandidaten.",
+    "publishConfirm": "Start",
+    "editedTitle": "Jouw vacature is aangepast.",
+    "editedConfirm": "Ok",
+    "sealAssistantTitle": "Je gaat {{candidate}} kandidaat sealen.",
+    "sealAssistantDescription": "OPGELET: Je hebt maar 1 Seal per vacature, gebruik hem wijselijk! Seal een kandidaat als je dit contact wilt behouden. Je ontvangt meteen de contactgegevens.",
+    "sealAssistantConfirm": "Seal",
+    "removeApplicantTitle": "Ben je zeker dat je jouw match met {{candidate}} wilt verwijderen?",
+    "removeAssistantConfirm": "Verwijder",
+    "publishedVacancyTitle": "Jouw vacature is gepubliceerd!",
+    "publishedVacancyDescription": "Start met het screenen van kandidaten om te matchen. Je kan chatten met gematchte kandidaten.",
+    "publishedVacancyConfirm": "Start",
+    "editedVacancyTitle": "Jouw vacature is aangepast.",
+    "editedVacancyConfirm": "Ok",
+    "pauseVacancyTitle": "Je gaat jouw vacature pauzeren.",
+    "pauseVacancyDescription": "Dit betekent dat deze niet meer zichtbaar zal zijn voor nieuwe kandidaten. Gematchte en gesealde kandidaten blijven wel zichtbaar!",
+    "pauseVacancyConfirm": "Pauzeer",
+    "resumeVacancyTitle": "Je gaat jouw vacature hervatten.",
+    "resumeVacancyDescription": "Dit betekent dat deze terug zichtbaar is voor nieuwe kandidaten.",
+    "resumeVacancyConfirm": "Hervat",
+    "reuseVacancyTitle": "Je gaat jouw vacature hergebruiken.",
+    "reuseVacancyDescription": "Gemakkelijk! Alle data wordt hergebruikt. Enkel nog het tijdschema nog invullen!",
+    "reuseVacancyConfirm": "Hergebruik"
+  },
+  "matchModal": {
+    "title": "It’s a match!",
+    "description": "Jij en {{candidate}} hebben elkaar goedgekeurd.",
+    "sendMessage": "Stuur een bericht",
+    "continueSwiping": "Blijf swipen"
+  },
+  "candidateProfile": {
+    "languageKnowledge": "Taalkennis",
+    "transportation": "Vervoer",
+    "education": "Opleiding",
+    "experience": "Ervaring",
+    "car": "Auto",
+    "license": "Rijbewijs",
+    "graduatedIn": "Afgestudeerd in {{graduationYear}}",
+    "yes": "Ja",
+    "no": "Nee",
+    "experienceLevels": {
+      "0": "0 - 1 Maand",
+      "1": "1 - 3 Maanden",
+      "2": "3 - 6 Maanden",
+      "3": "6 - 12 Maanden",
+      "4": "1 - 3 jaren",
+      "5": "3+ jaren"
+    }
+  },
+  "chat": {
+    "title": "Chat",
+    "today": "Vandaag",
+    "yesterday": "Gisteren",
+    "sendMessage": "Verstuur",
+    "typeAMessage": "Schrijf een bericht...",
+    "noMessages": "Geen berichten! Begin te chatten om elkaar te leren kennen",
+    "lookForJobsButton": "Zoek kandidaten",
+    "noConnectionsTitle": "Nog geen matches!",
+    "noJobConnections": "Wanneer je een match hebt met een kandidaat, krijg je die hier te zien!!"
+  },
+  "support": {
+    "title": "Help",
+    "howItWorks": "Hoe werkt het",
+    "pricing": "Pricing",
+    "termsConditions": " Gebruiksvoorwaarden en Privacybeleid"
+  },
+  "onboarding": {
+    "logoHint": "We raden sterk aan een bedrijfslogo toe te voegen. Profielen met een logo laten een betere indruk na."
+  },
+  "reviews": {
+    "sectionTitle": "Beoordelingen",
+    "giveReview": "Geef een beoordeling",
+    "seeReviews": "Bekijk beoordelingen",
+    "rating": "rating",
+    "review": "beoordeling",
+    "reviews": "beoordelingen",
+    "noReviews": "Nog geen beoordelingen",
+    "aboutMe": {
+      "title": "Beoordelingen over mij",
+      "punctuality": "Stiptheid",
+      "vacancyDescription": "Vacaturebeschrijving",
+      "workplace": "Werkvloer",
+      "performance": "Prestatie",
+      "noReviews": "Nog geen beoordelingen",
+      "noReviewsHint": "Nadat je een job hebt uitgevoerd, verschijnen hier de beoordelingen die je kan geven ."
+    },
+    "toGive": {
+      "title": "Beoordelingen die je kan geven",
+      "noReviewsText": "Geen beoordelingen die je kan geven"
+    },
+    "giveReviewScreen": {
+      "title": "Geef een beoordeling",
+      "ratingReason1": "De werknemer kwam op tijd",
+      "ratingReason2": "De prestaties van de werknemer waren goed",
+      "inputTextHint": "Vertel ons meer over jouw ervaring met de werknemer",
+      "inputTextPlaceholder": "Geef een beoordeling...",
+      "submitBtnLabel": "Beoordeling indienen",
+      "cancelBtnLabel": "Job niet uitgevoerd",
+      "confirmSubmitTitle": "Beoordeling indienen",
+      "confirmSubmitMessage": "Ben je zeker dat je deze beoordeling wil indienen?",
+      "confirmCancelTitle": "Annuleer de beoordeling",
+      "confirmCancelMessage": "Ben je zeker dat je de beoordeling wil annuleren?",
+      "yes": "Ja",
+      "no": "Nee"
+    }
+  },
+  "rating": {
+    "hint1": "Helemaal niet",
+    "hint2": "Zeker wel"
+  }
+}
